@@ -12,5 +12,7 @@ namespace string
             Console.WriteLine("Telefone: " + cliente1.Telefone);
             Console.WriteLine("Senha" + cliente1.Senha);
             Console.WriteLine("Email" + cliente1.Email);
+
+            System.Console.WriteLine();
     }
 }
