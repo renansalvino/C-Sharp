@@ -67,6 +67,8 @@ namespace TodoList {
             } while (opcao != 3);
 
         }
+
+       
         public static void ListaItens (List<TodoItem> TodoList) {
             Console.Clear ();
             int count = 1;
@@ -107,6 +109,8 @@ namespace TodoList {
                 System.Console.WriteLine ("ID:");
                 string id = Console.ReadLine ();
 
+                
+
                 if (id.ToLower () == "x") {
                     break;
                 } else {
@@ -124,6 +128,14 @@ namespace TodoList {
                 }
 
             } while (true);
+
+            
+
+            
+        }
+
+        public static void SalvarArquivo (List<TodoItem> todoList){ //!list<TodoItem> Tipo da variavel; todolist:  nome da variavel
+            
         }
     }
 }
