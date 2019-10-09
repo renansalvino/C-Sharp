@@ -1,0 +1,4 @@
+C:\Users\36591349880\Desktop\C#\Exercícios erro\SENAIzinho\obj\Debug\netcoreapp2.2\SENAIzinho.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercícios erro\SENAIzinho\obj\Debug\netcoreapp2.2\SENAIzinho.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercícios erro\SENAIzinho\obj\Debug\netcoreapp2.2\SENAIzinho.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercícios erro\SENAIzinho\obj\Debug\netcoreapp2.2\SENAIzinho.AssemblyInfo.cs

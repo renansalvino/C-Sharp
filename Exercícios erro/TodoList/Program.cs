@@ -135,7 +135,6 @@ namespace TodoList {
         }
 
         public static void SalvarArquivo (List<TodoItem> todoList){ //!list<TodoItem> Tipo da variavel; todolist:  nome da variavel
-            
         }
     }
 }
