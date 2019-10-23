@@ -12,7 +12,7 @@ namespace EscolaDeRock
     enum FormacaoEnum : uint
     {
         TRIO = 3,
-        QUARTETO
+        QUARTETO = 4,
     };
 
     enum InstrumentosEnum : uint
@@ -181,12 +181,14 @@ namespace EscolaDeRock
 
                             if (interfaceEncontrada != null)
                             {
+                            
                                 vagas--;
                                 ColocarNaBanda((IHarmonia)instrumento);
                             }
                             else
                             {
                                 Console.WriteLine("O instrumento selecionado não é de Harmonia.");
+                                vagas = 3;
                                 continue;
                             }
 

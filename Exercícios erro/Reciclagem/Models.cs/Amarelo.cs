@@ -5,7 +5,7 @@ namespace Reciclagem.Models.cs
     {
         public string OrganizarLixo()
         {
-           return  "Colocar na lixeira amarelo ";
+           return  "Colocar na lixeira amarela ";
         }
    
         
