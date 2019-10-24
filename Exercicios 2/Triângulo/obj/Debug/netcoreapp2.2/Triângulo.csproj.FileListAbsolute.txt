@@ -1,0 +1,11 @@
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\obj\Debug\netcoreapp2.2\Triângulo.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\obj\Debug\netcoreapp2.2\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\obj\Debug\netcoreapp2.2\Triângulo.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\obj\Debug\netcoreapp2.2\Triângulo.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\bin\Debug\netcoreapp2.2\Triângulo.deps.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\bin\Debug\netcoreapp2.2\Triângulo.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\bin\Debug\netcoreapp2.2\Triângulo.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\bin\Debug\netcoreapp2.2\Triângulo.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\bin\Debug\netcoreapp2.2\Triângulo.pdb
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\obj\Debug\netcoreapp2.2\Triângulo.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Triângulo\obj\Debug\netcoreapp2.2\Triângulo.pdb

@@ -1,0 +1,11 @@
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\obj\Debug\netcoreapp2.2\Litros.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\obj\Debug\netcoreapp2.2\Litros.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\obj\Debug\netcoreapp2.2\Litros.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\obj\Debug\netcoreapp2.2\Litros.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\bin\Debug\netcoreapp2.2\Litros.deps.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\bin\Debug\netcoreapp2.2\Litros.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\bin\Debug\netcoreapp2.2\Litros.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\bin\Debug\netcoreapp2.2\Litros.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\bin\Debug\netcoreapp2.2\Litros.pdb
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\obj\Debug\netcoreapp2.2\Litros.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Litros\obj\Debug\netcoreapp2.2\Litros.pdb

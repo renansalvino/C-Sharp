@@ -1,0 +1,11 @@
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\obj\Debug\netcoreapp2.2\NomeAlfabético.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\obj\Debug\netcoreapp2.2\NomeAlfabético.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\obj\Debug\netcoreapp2.2\NomeAlfabético.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\obj\Debug\netcoreapp2.2\NomeAlfabético.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\bin\Debug\netcoreapp2.2\NomeAlfabético.deps.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\bin\Debug\netcoreapp2.2\NomeAlfabético.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\bin\Debug\netcoreapp2.2\NomeAlfabético.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\bin\Debug\netcoreapp2.2\NomeAlfabético.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\bin\Debug\netcoreapp2.2\NomeAlfabético.pdb
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\obj\Debug\netcoreapp2.2\NomeAlfabético.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\NomeAlfabético\obj\Debug\netcoreapp2.2\NomeAlfabético.pdb

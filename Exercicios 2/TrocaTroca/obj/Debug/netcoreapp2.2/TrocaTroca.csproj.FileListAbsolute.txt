@@ -1,0 +1,11 @@
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\bin\Debug\netcoreapp2.2\TrocaTroca.deps.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\bin\Debug\netcoreapp2.2\TrocaTroca.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\bin\Debug\netcoreapp2.2\TrocaTroca.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\bin\Debug\netcoreapp2.2\TrocaTroca.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\bin\Debug\netcoreapp2.2\TrocaTroca.pdb
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\obj\Debug\netcoreapp2.2\TrocaTroca.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\obj\Debug\netcoreapp2.2\TrocaTroca.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\obj\Debug\netcoreapp2.2\TrocaTroca.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\obj\Debug\netcoreapp2.2\TrocaTroca.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\obj\Debug\netcoreapp2.2\TrocaTroca.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\TrocaTroca\obj\Debug\netcoreapp2.2\TrocaTroca.pdb
