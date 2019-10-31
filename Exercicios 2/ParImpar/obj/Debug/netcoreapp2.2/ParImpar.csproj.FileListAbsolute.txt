@@ -9,3 +9,14 @@ C:\Users\36591349880\Desktop\C#\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\Pa
 C:\Users\36591349880\Desktop\C#\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.AssemblyInfo.cs
 C:\Users\36591349880\Desktop\C#\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.dll
 C:\Users\36591349880\Desktop\C#\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.pdb
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.deps.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.runtimeconfig.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.runtimeconfig.dev.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.dll
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\bin\Debug\netcoreapp2.2\ParImpar.pdb
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.dll
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\ParImpar\obj\Debug\netcoreapp2.2\ParImpar.pdb
