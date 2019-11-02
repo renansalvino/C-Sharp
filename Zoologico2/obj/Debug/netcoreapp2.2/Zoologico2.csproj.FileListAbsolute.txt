@@ -1,4 +1,0 @@
-C:\Users\Renan\Desktop\Senai c#\Zoologico2\obj\Debug\netcoreapp2.2\Zoologico2.csprojAssemblyReference.cache
-C:\Users\Renan\Desktop\Senai c#\Zoologico2\obj\Debug\netcoreapp2.2\Zoologico2.csproj.CoreCompileInputs.cache
-C:\Users\Renan\Desktop\Senai c#\Zoologico2\obj\Debug\netcoreapp2.2\Zoologico2.AssemblyInfoInputs.cache
-C:\Users\Renan\Desktop\Senai c#\Zoologico2\obj\Debug\netcoreapp2.2\Zoologico2.AssemblyInfo.cs
