@@ -1,0 +1,4 @@
+C:\Users\Renan\Desktop\Senai c#\Zoológico\obj\Debug\netcoreapp2.2\Zoológico.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Senai c#\Zoológico\obj\Debug\netcoreapp2.2\Zoológico.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Senai c#\Zoológico\obj\Debug\netcoreapp2.2\Zoológico.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Senai c#\Zoológico\obj\Debug\netcoreapp2.2\Zoológico.AssemblyInfo.cs

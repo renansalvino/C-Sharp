@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\Nova pasta\\Exercicios 2\\IMC\\IMC.csproj",
+      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\Senai c#\\Exercicios 2\\IMC\\IMC.csproj",
       "projectName": "IMC",
-      "projectPath": "C:\\Users\\Renan\\Desktop\\Nova pasta\\Exercicios 2\\IMC\\IMC.csproj",
+      "projectPath": "C:\\Users\\Renan\\Desktop\\Senai c#\\Exercicios 2\\IMC\\IMC.csproj",
       "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renan\\Desktop\\Nova pasta\\Exercicios 2\\IMC\\obj\\",
+      "outputPath": "C:\\Users\\Renan\\Desktop\\Senai c#\\Exercicios 2\\IMC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,4 @@
+C:\Users\Renan\Desktop\Senai c#\obj\Debug\netcoreapp2.2\Senai c#.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Senai c#\obj\Debug\netcoreapp2.2\Senai c#.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Senai c#\obj\Debug\netcoreapp2.2\Senai c#.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Senai c#\obj\Debug\netcoreapp2.2\Senai c#.AssemblyInfo.cs
