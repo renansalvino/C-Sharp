@@ -9,9 +9,11 @@ namespace Zoológico
             Console.Clear();
             System.Console.WriteLine("/////////////////////////////////////////");
             System.Console.WriteLine();
-            System.Console.WriteLine("          Bem vindo            ");
+            System.Console.WriteLine("|      Bem vindo ao Zoológico           |");
             System.Console.WriteLine();
-            System.Console.WriteLine("//////////////////////////////////////////");
+            System.Console.WriteLine("/////////////////////////////////////////");
+
+            
         }
     }
 }

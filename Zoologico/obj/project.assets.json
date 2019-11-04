@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\Senai c#\\Zoológico\\Zoológico.csproj",
+      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\Senai c#\\Zoologico\\Zoológico.csproj",
       "projectName": "Zoológico",
-      "projectPath": "C:\\Users\\Renan\\Desktop\\Senai c#\\Zoológico\\Zoológico.csproj",
+      "projectPath": "C:\\Users\\Renan\\Desktop\\Senai c#\\Zoologico\\Zoológico.csproj",
       "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renan\\Desktop\\Senai c#\\Zoológico\\obj\\",
+      "outputPath": "C:\\Users\\Renan\\Desktop\\Senai c#\\Zoologico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
