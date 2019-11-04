@@ -2,7 +2,7 @@ using Zoologico.Interface;
 
 namespace Zoologico.Models.Animais
 {
-    public class TubaraoMartelo : Arca
+    public class TubaraoMartelo : Animal
     {
         
     }

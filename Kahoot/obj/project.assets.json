@@ -541,7 +541,6 @@
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -693,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\36591349880\\Desktop\\C#\\Zoologico\\Zoológico.csproj",
-      "projectName": "Zoológico",
-      "projectPath": "C:\\Users\\36591349880\\Desktop\\C#\\Zoologico\\Zoológico.csproj",
+      "projectUniqueName": "C:\\Users\\36591349880\\Desktop\\C#\\Kahoot\\Kahoot.csproj",
+      "projectName": "Kahoot",
+      "projectPath": "C:\\Users\\36591349880\\Desktop\\C#\\Kahoot\\Kahoot.csproj",
       "packagesPath": "C:\\Users\\36591349880\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\36591349880\\Desktop\\C#\\Zoologico\\obj\\",
+      "outputPath": "C:\\Users\\36591349880\\Desktop\\C#\\Kahoot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

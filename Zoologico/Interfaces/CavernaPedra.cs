@@ -1,4 +1,4 @@
-namespace Zoologico.Interface
+namespace Zoologico.Interfaces
 {
     public interface CavernaPedra
     {

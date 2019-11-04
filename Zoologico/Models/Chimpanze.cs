@@ -1,7 +1,7 @@
 using Zoologico.Interface;
 namespace Zoologico.Models.Animais
 {
-    public class Chimpanze : Arca
+    public class Chimpanze : Animal
     {
         
     }

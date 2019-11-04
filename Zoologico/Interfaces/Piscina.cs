@@ -1,5 +1,5 @@
 using System;
-namespace Zoologico.Interface
+namespace Zoologico.Interfaces
 {
     public interface Piscina
     {

@@ -3,7 +3,7 @@ using Zoologico.Interface;
 
 namespace Zoologico.Models.Animais
 {
-    public class Golfinho : Arca
+    public class Golfinho : Animal
     {
         
     }

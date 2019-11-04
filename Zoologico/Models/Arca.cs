@@ -1,4 +1,4 @@
-using Zoologico.Interface;
+using Zoologico.Models;
 using System.Collections.Generic;
 
 namespace Zoologico.Models.Animais {
