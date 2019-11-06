@@ -2,12 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-
 namespace ByteBank2.Models
 {
-    public class ContaEspecial:ContaBancaria
+    public class ContaEspecial : ContaBancaria
     {
         public double Limite;
+
         public ContaEspecial(int Agencia, int NumeroConta, string Titular) : base(Agencia, NumeroConta, Titular)
         {
             Limite = 0.0;
@@ -27,17 +27,13 @@ namespace ByteBank2.Models
         {
             if(Valor >= 0)
             {
-                if(Valor <= base.Saldo + Limite)
+                if(Valor <= Saldo + Limite)
                 {
-                    if(Valor <= Saldo + Limite)
-                    {
-                        Saldo -= Valor;
-                        return true;
-                    }
+                    Saldo -= Valor;
+                    return true;
                 }
             }
-                return false;
+            return false;
         }
-        
     }
 }

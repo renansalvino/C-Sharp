@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\36591349880\\Documents\\Exercícios\\calculadora\\calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\36591349880\\Desktop\\C#\\Exercícios erro\\Calculadora\\calculadora.csproj",
       "projectName": "calculadora",
-      "projectPath": "C:\\Users\\36591349880\\Documents\\Exercícios\\calculadora\\calculadora.csproj",
+      "projectPath": "C:\\Users\\36591349880\\Desktop\\C#\\Exercícios erro\\Calculadora\\calculadora.csproj",
       "packagesPath": "C:\\Users\\36591349880\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\36591349880\\Documents\\Exercícios\\calculadora\\obj\\",
+      "outputPath": "C:\\Users\\36591349880\\Desktop\\C#\\Exercícios erro\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

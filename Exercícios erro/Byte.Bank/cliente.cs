@@ -1,27 +1,25 @@
-namespace Byte.Bank {
-    public class Cliente 
+namespace ByteBank
+{
+    public class Cliente
     {
+        public string Cpf;
         public string Nome;
-        public string Senha;
-        public string CPF;
         public string Email;
-        public Cliente (string Nome, string CPF, string Email){
+        public string Senha;
 
-        this.Nome = Nome;
-        this.CPF = CPF;
-        this.Email = Email;
-    }
-
-        public bool TrocaSenha (string Senha){
-            if ((Senha.Length > 6) && (Senha.Length <16)){
-                this.Senha = Senha;
-                return true;
-            }else{
-                return false;
-            }
-
+        public Cliente(string Nome, string Cpf, string Email){
+            this.Nome = Nome;
+            this.Cpf = Cpf;
+            this.Email = Email;
         }
 
-
+        public bool TrocaSenha(string senha){
+            if((senha.Length > 6) && (senha.Length < 16)){
+                this.Senha = senha;
+                return true;
+            } else {
+                return false;
+            }
+        }
     }
 }

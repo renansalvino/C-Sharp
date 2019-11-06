@@ -1,8 +1,12 @@
 ﻿using System;
 
-namespace Byte.Bank {
-    class Program {
-          Console.WriteLine("Cadastro de Clientes");
+namespace ByteBank
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Cadastro de Clientes");
             Console.WriteLine();
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
@@ -92,8 +96,6 @@ namespace Byte.Bank {
             }
             Console.WriteLine($"Saldo origem: {contaCorrente.Saldo}");
             Console.WriteLine($"Saldo destino: {contaCorrente2.Saldo}");
-        }
-    }
         }
     }
 }
