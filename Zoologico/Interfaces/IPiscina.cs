@@ -1,7 +1,7 @@
 using System;
 namespace Zoologico.Interfaces
 {
-    public interface Piscina
+    public interface IPiscina
     {
        string RespirarNaAgua();
     }

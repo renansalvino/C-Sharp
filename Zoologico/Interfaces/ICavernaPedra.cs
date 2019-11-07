@@ -1,6 +1,6 @@
 namespace Zoologico.Interfaces
 {
-    public interface CavernaPedra
+    public interface ICavernaPedra
     {
          string andar();
     }
