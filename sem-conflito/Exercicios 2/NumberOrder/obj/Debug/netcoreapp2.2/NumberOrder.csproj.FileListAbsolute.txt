@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\bin\Debug\netcoreapp2.2\NumberOrder.deps.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\bin\Debug\netcoreapp2.2\NumberOrder.runtimeconfig.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\bin\Debug\netcoreapp2.2\NumberOrder.runtimeconfig.dev.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\bin\Debug\netcoreapp2.2\NumberOrder.dll
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\bin\Debug\netcoreapp2.2\NumberOrder.pdb
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\obj\Debug\netcoreapp2.2\NumberOrder.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\obj\Debug\netcoreapp2.2\NumberOrder.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\obj\Debug\netcoreapp2.2\NumberOrder.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\obj\Debug\netcoreapp2.2\NumberOrder.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\obj\Debug\netcoreapp2.2\NumberOrder.dll
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\NumberOrder\obj\Debug\netcoreapp2.2\NumberOrder.pdb

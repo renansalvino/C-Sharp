@@ -1,0 +1,22 @@
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.deps.json
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.dll
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.pdb
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.dll
+C:\Users\36591349880\Desktop\C#\Exercícios\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.pdb
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.deps.json
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.dll
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\bin\Debug\netcoreapp2.2\Byte.Bank.pdb
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.dll
+C:\Users\36591349880\Desktop\C#\Exercícios erro\Byte.Bank\obj\Debug\netcoreapp2.2\Byte.Bank.pdb

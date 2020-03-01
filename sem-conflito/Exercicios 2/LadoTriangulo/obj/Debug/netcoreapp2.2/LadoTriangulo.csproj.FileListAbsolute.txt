@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\obj\Debug\netcoreapp2.2\LadoTriangulo.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\obj\Debug\netcoreapp2.2\LadoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\obj\Debug\netcoreapp2.2\LadoTriangulo.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\obj\Debug\netcoreapp2.2\LadoTriangulo.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\bin\Debug\netcoreapp2.2\LadoTriangulo.deps.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\bin\Debug\netcoreapp2.2\LadoTriangulo.runtimeconfig.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\bin\Debug\netcoreapp2.2\LadoTriangulo.runtimeconfig.dev.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\bin\Debug\netcoreapp2.2\LadoTriangulo.dll
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\bin\Debug\netcoreapp2.2\LadoTriangulo.pdb
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\obj\Debug\netcoreapp2.2\LadoTriangulo.dll
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\LadoTriangulo\obj\Debug\netcoreapp2.2\LadoTriangulo.pdb

@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\bin\Debug\netcoreapp2.2\Limite.deps.json
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\bin\Debug\netcoreapp2.2\Limite.runtimeconfig.json
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\bin\Debug\netcoreapp2.2\Limite.runtimeconfig.dev.json
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\bin\Debug\netcoreapp2.2\Limite.dll
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\bin\Debug\netcoreapp2.2\Limite.pdb
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\obj\Debug\netcoreapp2.2\Limite.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\obj\Debug\netcoreapp2.2\Limite.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\obj\Debug\netcoreapp2.2\Limite.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\obj\Debug\netcoreapp2.2\Limite.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\obj\Debug\netcoreapp2.2\Limite.dll
+C:\Users\Renan\Desktop\Senai c#\Exercicios 2\Limite\obj\Debug\netcoreapp2.2\Limite.pdb

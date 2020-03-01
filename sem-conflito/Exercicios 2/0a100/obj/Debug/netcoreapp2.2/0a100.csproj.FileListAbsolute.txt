@@ -1,0 +1,22 @@
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.deps.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.pdb
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.pdb
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.deps.json
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.runtimeconfig.json
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.runtimeconfig.dev.json
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.dll
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\bin\Debug\netcoreapp2.2\0a100.pdb
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.AssemblyInfo.cs
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.dll
+C:\Users\Renan\Desktop\C Shapera\sem-conflito\Exercicios 2\0a100\obj\Debug\netcoreapp2.2\0a100.pdb
