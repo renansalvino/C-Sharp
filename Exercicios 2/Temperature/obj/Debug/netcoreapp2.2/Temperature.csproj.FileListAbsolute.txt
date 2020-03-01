@@ -1,0 +1,11 @@
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\bin\Debug\netcoreapp2.2\Temperature.deps.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\bin\Debug\netcoreapp2.2\Temperature.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\bin\Debug\netcoreapp2.2\Temperature.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\bin\Debug\netcoreapp2.2\Temperature.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\bin\Debug\netcoreapp2.2\Temperature.pdb
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\obj\Debug\netcoreapp2.2\Temperature.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\obj\Debug\netcoreapp2.2\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\obj\Debug\netcoreapp2.2\Temperature.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\obj\Debug\netcoreapp2.2\Temperature.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\obj\Debug\netcoreapp2.2\Temperature.dll
+C:\Users\36591349880\Desktop\C#\Exercicios 2\Temperature\obj\Debug\netcoreapp2.2\Temperature.pdb
