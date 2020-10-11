@@ -1,0 +1,11 @@
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\bin\Debug\netcoreapp2.2\Mês.deps.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\bin\Debug\netcoreapp2.2\Mês.runtimeconfig.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\bin\Debug\netcoreapp2.2\Mês.runtimeconfig.dev.json
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\bin\Debug\netcoreapp2.2\Mês.dll
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\bin\Debug\netcoreapp2.2\Mês.pdb
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\obj\Debug\netcoreapp2.2\Mês.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\obj\Debug\netcoreapp2.2\Mês.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\obj\Debug\netcoreapp2.2\Mês.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\obj\Debug\netcoreapp2.2\Mês.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\obj\Debug\netcoreapp2.2\Mês.dll
+C:\Users\Renan\Desktop\Nova pasta\Exercicios 2\Mês\obj\Debug\netcoreapp2.2\Mês.pdb

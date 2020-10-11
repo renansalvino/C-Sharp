@@ -1,0 +1,26 @@
+C:\Users\Renan\Desktop\Senai c#\Zoológico\obj\Debug\netcoreapp2.2\Zoológico.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Senai c#\Zoológico\obj\Debug\netcoreapp2.2\Zoológico.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Senai c#\Zoológico\obj\Debug\netcoreapp2.2\Zoológico.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Senai c#\Zoológico\obj\Debug\netcoreapp2.2\Zoológico.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Senai c#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.csprojAssemblyReference.cache
+C:\Users\Renan\Desktop\Senai c#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Senai c#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Senai c#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Senai c#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.deps.json
+C:\Users\Renan\Desktop\Senai c#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.runtimeconfig.json
+C:\Users\Renan\Desktop\Senai c#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.runtimeconfig.dev.json
+C:\Users\Renan\Desktop\Senai c#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.dll
+C:\Users\Renan\Desktop\Senai c#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.pdb
+C:\Users\Renan\Desktop\Senai c#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.dll
+C:\Users\Renan\Desktop\Senai c#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.pdb
+C:\Users\36591349880\Desktop\C#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.deps.json
+C:\Users\36591349880\Desktop\C#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.runtimeconfig.json
+C:\Users\36591349880\Desktop\C#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.runtimeconfig.dev.json
+C:\Users\36591349880\Desktop\C#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.dll
+C:\Users\36591349880\Desktop\C#\Zoologico\bin\Debug\netcoreapp2.2\Zoológico.pdb
+C:\Users\36591349880\Desktop\C#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.csprojAssemblyReference.cache
+C:\Users\36591349880\Desktop\C#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.csproj.CoreCompileInputs.cache
+C:\Users\36591349880\Desktop\C#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.AssemblyInfoInputs.cache
+C:\Users\36591349880\Desktop\C#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.AssemblyInfo.cs
+C:\Users\36591349880\Desktop\C#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.dll
+C:\Users\36591349880\Desktop\C#\Zoologico\obj\Debug\netcoreapp2.2\Zoológico.pdb
